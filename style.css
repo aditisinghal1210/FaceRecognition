@@ -1,0 +1,32 @@
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: blue;
+	border-radius: 10px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	margin-top: 30px;
+	margin-bottom: 10px;
+	font-size: 1.2em;
+}
+
+p {
+	margin: 10px 0;
+	font-size: 1.1em;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+	font-size: 1.1em;
+}
+
+input[type="radio"] {
+	margin-right: 10px;
+}
